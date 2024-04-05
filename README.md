@@ -7,3 +7,5 @@ Harshita Sharma
 # Hobby
 Reading books
 
+# Education
+Engineering
